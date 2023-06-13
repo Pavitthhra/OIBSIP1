@@ -1,0 +1,70 @@
+.container {
+    position: relative;
+  font-family: cursive;
+  font-size: 25px;
+    color:blue;
+  }
+  .txt{
+  position:relative;
+  top:300px;
+  right:40px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 65px;
+  }
+  .boundary{
+      height:50px;
+  }
+   nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+  
+    }
+  
+    nav li {
+      margin-left: 200px;
+      margin-bottom:20px;
+      background-color: thistle;
+  margin-top:20px;
+    }
+  
+  
+    nav a {
+      color:cadetblue;
+    font-size:35px;
+      text-decoration: none;
+    }
+  .t{
+  background-color:lavenderblush;
+  }
+  .div1{
+  
+      width:50%;
+      height:100px;;
+  }
+  .maindiv{
+      display: flex;
+      justify-content: space-between;
+    }
+  #pic{
+      margin:20px;
+  }
+  .div2{
+  width:50%;
+  height:600px;
+  }
+  button{
+      background-color:lightcyan;
+      color:grey;
+      height: 20px;
+      width:150px;
+      border-radius:15px 15px;
+      padding: 25px;
+      text-align: center;
+      font-weight: bolder;
+      font-size: medium;
+      position: absolute;
+  
+    }
+  
